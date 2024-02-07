@@ -1,0 +1,52 @@
+.video {
+    width: 300px;
+    height: 300px;
+    cursor: pointer;
+}
+
+.video .img {
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px black;
+
+}
+
+.title img{
+    width: 30px;
+    height: 30px;
+    border-radius: 100px;
+    display: block;
+    box-shadow: 1px 1px 1px black;
+}
+
+.title {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.channelName span {
+    font-size: 12px;
+}
+
+.title span {
+    font-size: 12px;
+}
+
+.vue span {
+    font-size: 14px;
+}
+
+.Videos{
+    display: flex;
+    flex-direction: row;
+    gap : 30px;
+    margin-top: 100px;
+    margin-left: 30px;
+    flex-wrap: wrap;
+}
