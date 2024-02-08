@@ -43,7 +43,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Add a Video
 
-  To add a Video icon you must add a node to video.json file. a note is composed by:
+  To add a Video icon you must add a node to video.json file. a node is composed by:
 ```json
  {
         "id" : 2,
